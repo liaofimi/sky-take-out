@@ -9,6 +9,7 @@ import java.util.List;
 public interface DishFlavorMapper {
 
     /**
+     *
      * 批量插入口味数据
      * @param flavors
      */

@@ -18,6 +18,7 @@ public interface DishMapper {
     Integer countByCategoryId(Long categoryId);
 
     /**
+     *
      * 插入菜品数据
      * @param dish
      */
